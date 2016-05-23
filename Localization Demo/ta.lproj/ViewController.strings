@@ -1,0 +1,10 @@
+/* 
+  ViewController.strings
+  Localization Demo
+
+  Created by Sagar Shirbhate on 07/01/16.
+  Copyright © 2016 Sagar Shirbhate. All rights reserved.
+*/
+
+"title"="எச்சரிக்கை!";
+"msg"="அதிக எப்படி இருக்கிறீர்கள்?";
