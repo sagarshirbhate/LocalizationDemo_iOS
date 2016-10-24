@@ -1,9 +1,3 @@
-# 
-
-![alt tag]()
-
-#Do localization withught changing System default language. Change language while app is running state
-
 # LocalizationDemo_iOS
 * Change App Language while app is running
 * No Need to Restart App,device
